@@ -1,0 +1,17 @@
+{
+  "id": "paper-light",
+  "name": "Paper Light",
+  "description": "A bright, calm theme for daytime",
+  "dark": false,
+  "background": "#F4F1EA",
+  "surface": "#FFFFFF",
+  "surfaceElevated": "#FFFFFF",
+  "accent": "#2F6F4E",
+  "accentSecondary": "#C2410C",
+  "textPrimary": "#1A1A17",
+  "textSecondary": "#6B6A63",
+  "gradient": ["#2F6F4E", "#C2410C"],
+  "coverCornerRadius": 16,
+  "cardCornerRadius": 14,
+  "controlSize": 68
+}

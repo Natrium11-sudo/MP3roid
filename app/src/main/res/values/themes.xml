@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Nur das Fenster-Theme. Die gesamte Optik wird in Compose über das
+      Theme-System (LocalMP3roidTheme) gesteuert.
+    -->
+    <style name="Theme.MP3roid" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/mp3roid_window</item>
+        <item name="android:colorBackground">@color/mp3roid_window</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <!--
+          Ohne diese Angabe reserviert das System bei Geräten mit Notch den
+          oberen Streifen und malt dort ein eigenes Band (sichtbar als grauer/
+          schwarzer Balken, sobald die Statusleiste ausgeblendet ist).
+        -->
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+        <item name="android:windowShowWallpaper">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentTransitions">false</item>
+    </style>
+</resources>

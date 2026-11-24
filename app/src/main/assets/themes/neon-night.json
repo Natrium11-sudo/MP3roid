@@ -1,0 +1,17 @@
+{
+  "id": "neon-night",
+  "name": "Neon Night",
+  "description": "Cold cyan meets magenta",
+  "dark": true,
+  "background": "#070A14",
+  "surface": "#101728",
+  "surfaceElevated": "#18223A",
+  "accent": "#22E1FF",
+  "accentSecondary": "#FF3D9A",
+  "textPrimary": "#EEF5FF",
+  "textSecondary": "#8B9CC4",
+  "gradient": ["#22E1FF", "#7C4DFF", "#FF3D9A"],
+  "coverCornerRadius": 22,
+  "cardCornerRadius": 18,
+  "controlSize": 70
+}

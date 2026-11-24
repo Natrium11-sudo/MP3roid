@@ -1,0 +1,17 @@
+{
+  "id": "sunset-drive",
+  "name": "Sunset Drive",
+  "description": "Warm, for evening drives",
+  "dark": true,
+  "background": "#120A08",
+  "surface": "#20130F",
+  "surfaceElevated": "#2C1A14",
+  "accent": "#FF8A3D",
+  "accentSecondary": "#FF4D6D",
+  "textPrimary": "#FFF1E8",
+  "textSecondary": "#B99C8C",
+  "gradient": ["#FF8A3D", "#FF4D6D", "#7A2E4F"],
+  "coverCornerRadius": 26,
+  "cardCornerRadius": 20,
+  "controlSize": 72
+}

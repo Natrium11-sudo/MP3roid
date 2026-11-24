@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP3roid</string>
+    <string name="app_tagline">Dein Musikgerät</string>
+
+    <!-- Navigation -->
+    <string name="nav_player">Player</string>
+    <string name="nav_library">Bibliothek</string>
+    <string name="nav_apps">Apps</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_search">Suchen</string>
+    <string name="action_back">Zurück</string>
+    <string name="action_close">Schließen</string>
+    <string name="action_refresh">Neu einlesen</string>
+    <string name="action_cancel">Abbrechen</string>
+    <string name="action_save">Speichern</string>
+    <string name="action_ok">OK</string>
+
+    <!-- Player -->
+    <string name="player_nothing_playing">Nichts läuft gerade</string>
+    <string name="player_pick_something">Wähle in der Bibliothek etwas aus</string>
+    <string name="source_local">Lokal</string>
+    <string name="source_unknown">Unbekannt</string>
+    <string name="volume">Lautstärke</string>
+    <string name="now_playing_from">Wiedergabe von %1$s</string>
+    <string name="up_next">Als Nächstes</string>
+    <string name="queue">Warteschlange</string>
+    <string name="shuffle">Zufall</string>
+    <string name="repeat">Wiederholen</string>
+    <string name="repeat_all">Alles wiederholen</string>
+    <string name="repeat_one">Titel wiederholen</string>
+
+    <!-- Bibliothek -->
+    <string name="lib_albums">Alben</string>
+    <string name="lib_artists">Interpreten</string>
+    <string name="lib_folders">Ordner</string>
+    <string name="lib_tracks">Titel</string>
+    <string name="lib_favorites">Favoriten</string>
+    <string name="lib_playlists">Playlists</string>
+    <string name="lib_empty">Keine Musik gefunden</string>
+    <string name="lib_empty_hint">Kopiere MP3s auf das Handy (Ordner /Music) und tippe oben auf „Neu einlesen".</string>
+    <string name="lib_scanning">Musik wird gesucht …</string>
+    <string name="lib_scan_result">%1$d Titel gefunden</string>
+    <string name="lib_unknown_artist">Unbekannter Interpret</string>
+    <string name="lib_unknown_album">Unbekanntes Album</string>
+    <string name="lib_tracks_count">%1$d Titel</string>
+    <string name="lib_new_playlist">Neue Playlist</string>
+    <string name="lib_playlist_name">Name der Playlist</string>
+    <string name="lib_add_to_playlist">Zu Playlist hinzufügen</string>
+    <string name="lib_play_next">Als Nächstes abspielen</string>
+    <string name="lib_add_queue">Zur Warteschlange</string>
+    <string name="lib_play_all">Alles abspielen</string>
+    <string name="lib_shuffle_all">Alles zufällig</string>
+    <string name="lib_favorite_add">Zu Favoriten</string>
+    <string name="lib_favorite_remove">Aus Favoriten entfernen</string>
+
+    <!-- Apps -->
+    <string name="apps_search_hint">Apps durchsuchen</string>
+    <string name="apps_empty">Keine Apps gefunden</string>
+    <string name="apps_info">App-Info</string>
+    <string name="apps_uninstall">Deinstallieren</string>
+    <string name="apps_open">Öffnen</string>
+
+    <!-- Suche -->
+    <string name="search_hint">Titel, Interpret, Album, App …</string>
+    <string name="search_tracks">Titel</string>
+    <string name="search_apps">Apps</string>
+    <string name="search_no_results">Nichts gefunden</string>
+
+    <!-- Einstellungen -->
+    <string name="settings_theme">Design</string>
+    <string name="settings_theme_hint">Eigene Themes liegen als JSON in assets/themes/</string>
+    <string name="settings_playback">Wiedergabe</string>
+    <string name="settings_audio_effects">Klang</string>
+    <string name="settings_equalizer">Equalizer</string>
+    <string name="settings_bass_boost">Bass-Boost</string>
+    <string name="settings_sleep_timer">Sleep-Timer</string>
+    <string name="settings_sleep_off">Aus</string>
+    <string name="settings_sleep_minutes">%1$d Minuten</string>
+    <string name="settings_sleep_remaining">Noch %1$s</string>
+    <string name="settings_library">Bibliothek</string>
+    <string name="settings_music_only">Nur als Musik markierte Dateien</string>
+    <string name="settings_min_duration">Sehr kurze Titel ausblenden</string>
+    <string name="settings_scan">Bibliothek jetzt neu einlesen</string>
+    <string name="settings_system">System</string>
+    <string name="settings_home_role">Als Startbildschirm verwenden</string>
+    <string name="settings_home_role_on">MP3roid ist der Startbildschirm</string>
+    <string name="settings_home_role_off">Noch nicht als Startbildschirm eingerichtet</string>
+    <string name="settings_notif_access">Zugriff auf Wiedergabe-Infos</string>
+    <string name="settings_notif_on">Aktiv – fremde Player werden angezeigt</string>
+    <string name="settings_notif_off">Inaktiv – Spotify &amp; Co. bleiben unsichtbar</string>
+    <string name="settings_open_system">Systemeinstellung öffnen</string>
+    <string name="settings_show_bars">Systemleisten dauerhaft anzeigen</string>
+    <string name="settings_about">Über MP3roid</string>
+    <string name="settings_about_text">MP3roid ist ein Startbildschirm, der gleichzeitig ein Musikplayer ist. Lokale MP3s und fremde Player (Spotify, YouTube-Music-Clients) erscheinen an einer Stelle.</string>
+    <string name="settings_version">Version %1$s</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Willkommen bei MP3roid</string>
+    <string name="onboarding_subtitle">Drei Schritte, dann ist dein Handy ein Musikgerät.</string>
+    <string name="onboarding_step1_title">Startbildschirm</string>
+    <string name="onboarding_step1_text">MP3roid ersetzt den normalen Startbildschirm. Beim Drücken der Home-Taste landest du immer beim Player.</string>
+    <string name="onboarding_step2_title">Musik lesen</string>
+    <string name="onboarding_step2_text">Damit MP3roid deine MP3s findet, braucht es Zugriff auf deine Audiodateien.</string>
+    <string name="onboarding_step3_title">Fremde Player sehen</string>
+    <string name="onboarding_step3_text">Erlaube MP3roid den Benachrichtigungszugriff. Nur so kann es anzeigen und steuern, was Spotify oder ein YouTube-Music-Client gerade spielt.</string>
+    <string name="onboarding_allow">Erlauben</string>
+    <string name="onboarding_done">Fertig</string>
+    <string name="onboarding_granted">Erledigt</string>
+    <string name="onboarding_skip">Später</string>
+    <string name="onboarding_later">Später einrichten</string>
+
+    <!-- Sleep timer / misc -->
+    <string name="sleep_timer_short">Sleep</string>
+    <string name="back_to_player">Zum Player</string>
+    <string name="permission_needed_audio">Ohne Zugriff auf deine Dateien findet MP3roid keine Musik.</string>
+</resources>

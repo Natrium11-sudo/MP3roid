@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Bild-Symbol: Rahmen mit Berg und Sonne. Alle Koordinaten absolut, damit
+     kein relativer Befehl auf ein "z" folgt (siehe TESTING.md zu den Symbolen). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M2 4L22 4L22 20L2 20ZM5 7L19 7L19 17L5 17ZM6 17L10 10.5L14 17ZM15 10.2A1.2 1.2 0 0 1 17.4 10.2A1.2 1.2 0 0 1 15 10.2Z" />
+</vector>
